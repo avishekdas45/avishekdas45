@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Avishek Das
 
-🎯 **Aspiring Data Analyst** | 📊 Turning data into actionable insights  
+🎯 **Aspiring Business Analyst** | 📊 Turning data into actionable insights  
 📍 Kolkata, India | 🧠 Lifelong learner of SQL, Python, Excel, Power Bi and Statistics
 
 ---
